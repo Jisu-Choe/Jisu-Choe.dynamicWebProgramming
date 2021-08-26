@@ -8,7 +8,6 @@ function leftText(){
     var horoscope = document.querySelector("#horoscope");
     var game = document.querySelector("#game");
     
-    alert(currentText)
     if(currentText==1){
         tarot.style.opacity = 0;
         game.style.opacity = 1;
@@ -32,7 +31,6 @@ function leftText(){
 }
 
 function rightText(){
-    alert(currentText);
     if(currentText==1){
         tarot.style.opacity = 0;
         horoscope.style.opacity = 1;
