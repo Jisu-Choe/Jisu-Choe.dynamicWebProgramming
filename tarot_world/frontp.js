@@ -48,7 +48,8 @@ function rightText(){
         game.style.display = "none";
     }
 }
-function harpSound(){
+function harpSound(event){
     var harp = new Audio("images/harp.mp3");
     harp.play();
+    event.stopPropagation();
     }
