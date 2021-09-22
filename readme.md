@@ -1,6 +1,6 @@
 # TAROT WORLD
 > 타로세상에 오신것을 환영합니다!
-![](../Front Page.png)
+![](Front Page.png)
 ## TAROT CARD READING
 > 타로카드로 당신의 운세를 알아보세요!
 ![](../TAROTCARD.png)
