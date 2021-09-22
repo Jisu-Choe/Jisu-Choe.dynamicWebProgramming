@@ -57,7 +57,6 @@ for(i=0;i<22;i++){
 	container.style.display="block"
 }
 textbox.innerHTML=text[n];
-container.setAttribute('class','active');
 result_btn.style.display="none";
 close_btn.style.display="none";
 }
