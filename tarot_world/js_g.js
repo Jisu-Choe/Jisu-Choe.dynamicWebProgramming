@@ -191,12 +191,6 @@ function playAgainf() {
     startGame();
 }
 
-// wait for some milliseconds before game starts
-//window.onload = function () {
-//    setTimeout(function() {
-//        startGame()
-//    }, 1200);
-//}
 function bgm_init() {
 	var bgm = new Audio();
   	bgm.src = 'images/bgm.mp3';
